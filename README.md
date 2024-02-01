@@ -9,11 +9,11 @@ I participated WEG internship
 I worked on public sector
 
 
-- 🔭 I’m currently working on System Development
-- 🌱 I’m currently learning find the best system solution for applied case
+- 🔭 I’m currently working on Systems Development
+- 🌱 I’m currently find the best system solution for each scenario
 - 👯 I’m looking to collaborate on technology 
-- 🤔 I’m looking for help with study, not all we know!
-- 💬 Ask me about future
-- 📫 How to reach me: running and fitness
+- 🤔 I’m looking for help with C++
+- 💬 Ask me about the future
+- 📫 How to reach me: working or studying, running and fitness
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm ever learning
